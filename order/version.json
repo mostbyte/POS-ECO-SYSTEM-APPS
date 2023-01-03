@@ -1,0 +1,10 @@
+{
+    "name": "Order APP",
+    "version": 1.0,
+    "description": [
+        "Initialize App"
+    ],
+    "macos_file_name": "",
+    "windows_file_name": "installers/windows/order.exe",
+    "linux_file_name": ""
+}
